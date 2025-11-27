@@ -11,6 +11,13 @@ Function description == tool description
 - mcp-cli
 (All wrapped in an virtual environment)
 
+## Cloning and accessing this project
+- Fork the repo
+- Clone the repo in your local machine.
+- cd to the directory
+- pip install -r requirements.txt
+- Run server with "mcp dev server.py"
+
 
 Server file ./server.py
 
